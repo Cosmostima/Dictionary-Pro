@@ -1,0 +1,23 @@
+{
+  "word": "who",
+  "cambridge": {
+    "total_senses": 4,
+    "pos_counts": {"pronoun": 3, "noun": 1},
+    "first_def_contains": {
+      "pronoun": "used especially in questions",
+      "noun": "World Health Organization"
+    },
+    "us_ipa": {"pronoun": "/huː/"},
+    "uk_ipa": {"pronoun": "/huː/"}
+  },
+  "wiktionary": {
+    "pos_counts": {"pronoun": 1},
+    "contains": {
+      "pronoun": ["who"]
+    }
+  },
+  "thesaurus": {
+    "pos_present": [],
+    "contains": {}
+  }
+}

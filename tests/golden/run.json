@@ -1,0 +1,26 @@
+{
+  "word": "run",
+  "cambridge": {
+    "total_senses": 9,
+    "pos_counts": {"verb": 6, "noun": 3},
+    "first_def_contains": {
+      "verb": "move along",
+      "noun": "running"
+    },
+    "us_ipa": {"verb": "/rʌn/", "noun": "/rʌn/"},
+    "uk_ipa": {"verb": "/rʌn/", "noun": "/rʌn/"}
+  },
+  "wiktionary": {
+    "pos_counts": {"verb": 5, "noun": 2},
+    "contains": {
+      "verb": ["run", "runs", "ran", "running"],
+      "noun": ["run", "runs"]
+    }
+  },
+  "thesaurus": {
+    "pos_present": ["verb", "noun"],
+    "contains": {
+      "verb": ["race"]
+    }
+  }
+}

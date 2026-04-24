@@ -1,0 +1,26 @@
+{
+  "word": "swarm",
+  "cambridge": {
+    "total_senses": 7,
+    "pos_counts": {"noun": 4, "verb": 3},
+    "first_def_contains": {
+      "noun": "large group of insects",
+      "verb": "insects swarm"
+    },
+    "us_ipa": {"noun": "/swɔːrm/", "verb": "/swɔːrm/"},
+    "uk_ipa": {"noun": "/swɔːm/", "verb": "/swɔːm/"}
+  },
+  "wiktionary": {
+    "pos_counts": {"noun": 2, "verb": 5},
+    "contains": {
+      "noun": ["swarm", "swarms"],
+      "verb": ["swarm", "swarms", "swarmed", "swarming"]
+    }
+  },
+  "thesaurus": {
+    "pos_present": ["noun", "verb"],
+    "contains": {
+      "noun": ["multitude"]
+    }
+  }
+}

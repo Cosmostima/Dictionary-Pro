@@ -1,0 +1,26 @@
+{
+  "word": "good",
+  "cambridge": {
+    "total_senses": 3,
+    "pos_counts": {"adjective": 2, "noun": 1},
+    "first_def_contains": {
+      "adjective": "satisfactory",
+      "noun": "product"
+    },
+    "us_ipa": {"adjective": "/ɡʊd/", "noun": "/ɡʊd/"},
+    "uk_ipa": {"adjective": "/ɡʊd/", "noun": "/ɡʊd/"}
+  },
+  "wiktionary": {
+    "pos_counts": {"adjective": 3, "noun": 2},
+    "contains": {
+      "adjective": ["good", "better", "best"],
+      "noun": ["good", "goods"]
+    }
+  },
+  "thesaurus": {
+    "pos_present": ["adjective", "noun"],
+    "contains": {
+      "adjective": ["excellent", "fine"]
+    }
+  }
+}
